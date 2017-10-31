@@ -60,12 +60,6 @@ class Main {
         Person p5 = new Person("Douka", "Anna", 40);
         System.out.println("Εμπεριέχεται στο σύνολο;"+ personsSet.contains(p5));
         
-        Person p6 = new Person("Douka", "Alexandra", 40);
-        System.out.println(personsSet.add(p6));
-        //System.out.println("Εμπεριέχεται στο σύνολο;"+ personsSet.contains(p6));
-        
-        
-        
         
         }
     }
