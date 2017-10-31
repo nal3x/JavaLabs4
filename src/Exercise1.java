@@ -49,8 +49,7 @@ public class Exercise1 {
         //listModifier(myList);
         scale(myList);
         printList(myList);
-        
-        
+          
     }
     
 }
